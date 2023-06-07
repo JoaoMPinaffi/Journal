@@ -10,4 +10,4 @@ valores.push({id: 3}, false, null, 'teste') // .push insere novos valores no arr
 console.log(valores.pop()) // .pop retira o ultimo valor do array
 delete valores[0] // delete deleta a posição requisitado do array
 
-console.log(typeof valores)
+console.log(typeof valores);
