@@ -16,7 +16,7 @@ for (y in nums){
     console.log(`${y} = ${nums[y]}`)
 }
 
-
+// don't use this way
 externo: for(a in nums) {
     for (b in nums) {
         if( a == 2 && b == 3){
